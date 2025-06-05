@@ -29,21 +29,21 @@ Throughout this journey, I’ll gain hands-on experience with:
 
 ---
 
-## 📚 My Documentation Approach
+##  My Documentation Approach
 
 This GitHub space will include:
 
-- 📄 Notes and personal summaries  
-- 💡 Practical lab walkthroughs  
-- 🧪 Tool exploration writeups  
-- 🛠️ Mini projects or challenges I complete  
-- ✅ Key lessons, mistakes, and improvements  
+-  Notes and personal summaries  
+-  Practical lab walkthroughs  
+-  Tool exploration writeups  
+-  Mini projects or challenges I complete  
+-  Key lessons, mistakes, and improvements  
 
-> ⚠️ **Disclaimer:** All shared content is based on personal practice and learning exercises. No proprietary or sensitive information from Jagspire or its clients will be posted here.
+>  **Disclaimer:** All shared content is based on personal practice and learning exercises. No proprietary or sensitive information from Jagspire or its clients will be posted here.
 
 ---
 
-## 💬 Let’s Connect
+##  Let’s Connect
 
 I welcome **feedback, collaboration, and connections** with fellow learners or professionals in cybersecurity.  
 If you're also learning or working in this space, feel free to **follow the repo and reach out!**
